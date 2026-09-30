@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "vocational",
+      "label": "職関連",
+      "description": "仕事・資格・現場実践に直結する食関連の教科書",
+      "genres": [
+        {
+          "id": "shokuiku",
+          "label": "食育",
+          "slug": "食育",
+          "path": "職関連/食育/グルメフェスMC食育ハンドブック.md",
+          "appPath": "https://food-text.vercel.app/#shokuiku",
+          "status": "published",
+          "summary": "グルメフェス向け食育トークショー MC 実践と知識のまとめ"
+        }
+      ]
+    }
+  ]
+}
