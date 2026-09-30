@@ -7,8 +7,9 @@
 
 ## 公開 URL（いつでも閲覧）
 
-- **本番**: https://food-text.vercel.app  
+- **本番（Vercel）**: https://food-text.vercel.app  
 - **食育ジャンル直接**: https://food-text.vercel.app/#shokuiku  
+- **GitHub**: https://github.com/sonotarenrakusenyo-gif/food-text  
 
 スマホのブラウザで開き、ホーム画面に追加するとアプリのように使えます（果物インストラクター版と同じ使い方）。
 
